@@ -8,3 +8,6 @@ https://github.com/Baekalfen/PyBoy
 
 AST, no test after style edits
 https://tech-blog.monotaro.com/entry/2018/09/26/142451
+
+autupep8
+https://tech-blog.monotaro.com/entry/2018/09/26/142451
